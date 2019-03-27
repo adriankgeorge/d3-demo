@@ -1,0 +1,23 @@
+/* Stylesheet by Anna E. George, 2019 */
+
+/* Styles axis */
+.axis path,
+.axis line {
+    fill: none;
+    stroke: black;
+    stroke-width: 1px;
+    shape-rendering: crispEdges;
+}
+
+/* Styles axis text */
+.axis text {
+    font-family: sans-serif;
+    font-size: 0.9em;
+}
+
+/* Styles title */
+.title {
+    font-family: sans-serif;
+    font-size: 1.5em;
+    font-weight: bold;
+}
